@@ -1,6 +1,6 @@
 'use strict';
 
-var url = 'http://api.icndb.com/jokes/random';
+var url = 'https://api.icndb.com/jokes/random';
 
 // Button get joke
 var button = document.getElementById('get-joke');
